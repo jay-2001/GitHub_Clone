@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@Components/*": ["./app/components/*"],
+      "@Containers/*": ["./app/containers/*"],
+      "@CustomHOC/*": ["./app/customHOC/*"],
+      "@Layouts/*": ["./app/layouts/*"],
+      "@Scenes/*": ["./app/scenes/*"],
+      "@Utils/*": ["./app/utils/*"],
+      "@Constants/*": ["./constants/*"],
+      "@Hooks/*": ["./hooks/*"],
+      "@Routes/*": ["./routes/*"],
+      "@Typings/*": ["../typings/*"],
+      "@Styles/*": ["./styles/*"],
+      "@Theme/*": ["./theme/*"],
+      "@I18n/*": ["./i18n/*"]
+    }
+  }
+}
